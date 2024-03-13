@@ -1,3 +1,5 @@
+# Pracownia języków skryptowych w grach wideo - Kamil Butryn
+
 **Zadanie 1** Kółko i krzyżyk
 
 :white_check_mark: 3.0 - działa w trybie gry turowej [Link do commita 1](https://github.com/kaybenot/skrypty/commit/74c2500a40a06928d70d1bb242c308396939fd0f)
