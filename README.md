@@ -13,7 +13,7 @@ Kod: [zad1](https://github.com/kaybenot/skrypty/tree/main/zad1)
 
 **Zadanie 2** Python: Czatbot
 
-:x: 3.0 A chatbot with the trained ability to handle at least 3 ways to phrase those intents.
+:white_check_mark: 3.0 A chatbot with the trained ability to handle at least 3 ways to phrase those intents. [Link do commita 1](https://github.com/kaybenot/skrypty/commit/d1d07f3feabc4c60691245814dec844b5ed28bdc)
 
 :x: 3.5 Information about opening hours and menu items should be fetched from the configuration file.
 
