@@ -1,11 +1,21 @@
 version: "3.1"
 
 stories:
+- story: menu path
+  steps:
+    - intent: list_menu
+    - action: action_list_menu
 
 - story: open hours path
   steps:
   - intent: opening_hours
-  - action: utter_opening_hours
+  - action: utter_ask_day
+  - intent: tell_day
+    entities:
+    - day: monday
+  - slot_was_set:
+    - day: monday
+  - action: action_say_day_opening_hours
 
 - story: happy path
   steps:

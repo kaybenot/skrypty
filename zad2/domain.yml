@@ -1,7 +1,9 @@
 version: "3.1"
 
 intents:
+  - list_menu
   - opening_hours
+  - tell_day
   - greet
   - goodbye
   - affirm
@@ -10,9 +12,20 @@ intents:
   - mood_unhappy
   - bot_challenge
 
+entities:
+- day
+
+slots:
+  day:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: day
+
 responses:
-  utter_opening_hours:
-  - text: "The restaurant is open 8-20"
+  utter_ask_day:
+  - text: "Which day?"
 
   utter_greet:
   - text: "Hey! How are you?"
@@ -32,6 +45,10 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+actions:
+- action_say_day_opening_hours
+- action_list_menu
 
 session_config:
   session_expiration_time: 60

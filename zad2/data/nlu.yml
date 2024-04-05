@@ -1,12 +1,35 @@
 version: "3.1"
 
 nlu:
+- intent: list_menu
+  examples: |
+    - menu
+    - what's the menu
+    - what is the menu
+    - what is menu
+    - serve
+    - what do you serve
+    - buy
+    - what can i buy
+
 - intent: opening_hours
   examples: |
-    - is opened
+    - is open
     - open
-    - is open today
     - when is restaurant open
+    - when is the restaurant open
+    - which hours the restaurant is open
+    - which hours restaurant is open
+
+- intent: tell_day
+  examples: |
+    - [monday](day)
+    - [tuesday](day)
+    - [wednesday](day)
+    - [thursday](day)
+    - [friday](day)
+    - [saturday](day)
+    - [sunday](day)
 
 - intent: greet
   examples: |
