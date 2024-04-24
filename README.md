@@ -24,3 +24,19 @@ Kod: [zad1](https://github.com/kaybenot/skrypty/tree/main/zad1)
 :x: 5.0 Chatbot should ask and confirm the delivery address instead of pick-up option
 
 Kod: [zad2](https://github.com/kaybenot/skrypty/tree/main/zad2)
+
+**Zadanie 3** JS: Zamek w Minecraft
+
+Zamek należy stworzyć za pomocą skryptu napisanego w JS.
+
+:white_check_mark: 3.0 Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków
+
+:white_check_mark: 3.5 Posiada mimum 4 okna
+
+:x: 4.0 Posiada fosę oraz most
+
+:x: 4.5 Posiada bramę oraz minimum 2 wieże
+
+:x: 5.0 Zamek ma minimum dwa poziomy (piętra) na które można wejść z zewnątrz
+
+Kod: [zad3](https://github.com/kaybenot/skrypty/tree/main/zad3)
