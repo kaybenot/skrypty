@@ -29,9 +29,9 @@ Kod: [zad2](https://github.com/kaybenot/skrypty/tree/main/zad2)
 
 Zamek należy stworzyć za pomocą skryptu napisanego w JS.
 
-:white_check_mark: 3.0 Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków
+:white_check_mark: 3.0 Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków [Link do commita 1](https://github.com/kaybenot/skrypty/commit/b0446ed53a25711b74eb565ff852252275da3c18)
 
-:white_check_mark: 3.5 Posiada mimum 4 okna
+:white_check_mark: 3.5 Posiada mimum 4 okna [Link do commita 1](https://github.com/kaybenot/skrypty/commit/b0446ed53a25711b74eb565ff852252275da3c18)
 
 :x: 4.0 Posiada fosę oraz most
 
