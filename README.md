@@ -40,3 +40,19 @@ Zamek należy stworzyć za pomocą skryptu napisanego w JS.
 :x: 5.0 Zamek ma minimum dwa poziomy (piętra) na które można wejść z zewnątrz
 
 Kod: [zad3](https://github.com/kaybenot/skrypty/tree/main/zad3)
+
+**Zadanie 4** Tetris w Lua
+
+Należy stworzyć grę Tetris w Lua na frameworku Löve (https://love2d.org/).
+
+:white_check_mark: 3.0 Postawowa wersja dekstopowa z obsługą na klawiaturze - minimum 4 rodzaje klocków [Link do commita 1](https://github.com/kaybenot/skrypty/commit/6291d0b660589ce2032a4f7159a16492c6655345)
+
+:x: 3.5 Zapis i odczyt gier
+
+:x: 4.0 Dodanie efektów dźwiękowych przy akcjach
+
+:x: 4.5 Dodanie animacji przy zbijaniu klocków
+
+:x: 5.0 Wersja na iOS lub Android z implementacją touch zamiast klawiatury
+
+Kod: [zad4](https://github.com/kaybenot/skrypty/tree/main/zad4)
