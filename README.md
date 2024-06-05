@@ -56,3 +56,17 @@ Należy stworzyć grę Tetris w Lua na frameworku Löve (https://love2d.org/).
 :x: 5.0 Wersja na iOS lub Android z implementacją touch zamiast klawiatury
 
 Kod: [zad4](https://github.com/kaybenot/skrypty/tree/main/zad4)
+
+**Zadanie 5** Mario w Ruby2d
+
+:white_check_mark: 3.0 Należy stworzyć jeden poziom z przeszkodami oraz dziurami w które można wpaść i zginąć [Link do commita 1](https://github.com/kaybenot/skrypty/commit/fc7570a88e57b99bd52538a1c2957c0f0c02491c)
+
+:x: 3.5 Należy dodać opcję zbierania punktów
+
+:x: 4.0 Należy dodać przeciwników, których można zabić oraz 3 życia
+
+:x: 4.5 Ładowanie poziomów z pliku
+
+:x: 5.0 Generator poziomów
+
+Kod: [zad5](https://github.com/kaybenot/skrypty/tree/main/zad5)
